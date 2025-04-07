@@ -1,0 +1,53 @@
+# NYC Airbnb Data Analysis
+
+This repository contains an exploratory data analysis (EDA) of Airbnb listings in New York City, performed using Python and popular data analysis libraries. The analysis provides insights into pricing, neighborhood trends, availability, and various listing characteristics.
+
+## Dataset
+
+The dataset used for this analysis contains detailed information about Airbnb listings in New York City. The data typically includes attributes such as:
+- Listing details (e.g., price, availability)
+- Neighborhood information
+- Host details
+- Property type and room type
+- Reviews and ratings
+
+## Objective
+
+The objective of this analysis is to understand patterns and trends in the Airbnb market within New York City, aiding prospective hosts, guests, and market analysts in decision-making processes.
+
+## Tools and Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Notebook Structure
+The notebook is structured into the following sections:
+1. **Data Loading and Cleaning**
+   - Handling missing values
+   - Removing duplicates
+   - Type conversions
+
+2. **Exploratory Data Analysis (EDA)**
+   - Price distribution
+   - Neighborhood analysis
+   - Availability patterns
+   - Relationship between price and reviews
+
+3. **Visualizations**
+   - Histograms
+   - Boxplots
+   - Scatter plots
+   - Heatmaps
+
+4. **Conclusions and Insights**
+   - Key insights drawn from analysis
+   - Recommendations based on findings
+
+## Getting Started
+To run the analysis on your local machine:
+
+1. Clone this repository:
+```bash
+git clone <repository-link>
